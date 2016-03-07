@@ -1,5 +1,7 @@
 ---
 title: Hexo博客编写指南 
+date: 2016-03-07 11:07:21
+tags: [Hexo,Github,Git]
 ---
 
 ### 创建新文章 
